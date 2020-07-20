@@ -1,9 +1,6 @@
 # Programación declarativa
 Matriz en espiral
 
-## Jorge Galeano
-20172020060
-
 ## Lenguaje
 Python - Haskell
 
